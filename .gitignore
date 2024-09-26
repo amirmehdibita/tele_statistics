@@ -163,3 +163,4 @@ cython_debug/
 
 # custom .gitignore
 *.ipynb
+*.json
