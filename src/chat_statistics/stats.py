@@ -33,7 +33,7 @@ class ChatStatistics:
 
     def generate_word_cloud(
             self,
-            output_di: Union[str, Path],
+            output_dir: Union[str, Path],
             width: int = 500, height: int = 600,
             max_font_size: int = 250,
             background_color: str = "white"
